@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>StampFast</title>
+        <item>
+            <title>0.2</title>
+            <pubDate>Tue, 26 Mar 2024 16:13:28 -0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/recombineapps/stampfast/releases/download/prod/StampFast.dmg" length="3587240" type="application/octet-stream" sparkle:edSignature="an7O624CbvzGgr7xVi2Zm4g0aHuxME61I1VIq/m9GxILfFu1Bx68mpVFF28SFoJq77pHaS8N+A+JxPyWQMAUDg=="/>
+        </item>
+    </channel>
+</rss>
