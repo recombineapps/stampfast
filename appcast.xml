@@ -3,12 +3,12 @@
     <channel>
         <title>StampFast</title>
         <item>
-            <title>0.2</title>
-            <pubDate>Tue, 26 Mar 2024 16:13:28 -0700</pubDate>
+            <title>0.3</title>
+            <pubDate>Tue, 26 Mar 2024 17:15:19 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/recombineapps/stampfast/releases/download/prod/StampFast.dmg" length="3587240" type="application/octet-stream" sparkle:edSignature="an7O624CbvzGgr7xVi2Zm4g0aHuxME61I1VIq/m9GxILfFu1Bx68mpVFF28SFoJq77pHaS8N+A+JxPyWQMAUDg=="/>
+            <enclosure url="https://github.com/recombineapps/stampfast/releases/download/prod/StampFast.dmg" length="3590673" type="application/octet-stream" sparkle:edSignature="oNdd+nvtFwDaBB0Wf1JgR+7RIrzmHTPQTj2Gn78vGFqHukXAXjogvfZ4f6iBlm5p5+k1GXHm8OfE9/m0Iy2GBQ=="/>
         </item>
     </channel>
 </rss>
